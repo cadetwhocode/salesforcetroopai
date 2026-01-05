@@ -7,7 +7,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/admin/'],
     },
-    sitemap: 'https://sfai.netlify.app/sitemap.xml',
+    sitemap: 'https://salesforcetroopai.netlify.app/sitemap.xml',
   }
 }
 
